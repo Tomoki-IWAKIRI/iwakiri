@@ -1,0 +1,39 @@
+/*
+body {
+	min-width: 1000px;
+}
+*/
+
+
+body {
+	min-width: 600px;
+}
+
+#main-visual h2 {
+    font-size: 180%;
+    color: #fff;
+}
+
+li {
+    margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+#copyright a {
+    color: #666;
+    text-decoration: none;
+}
+
+.mgr-10 {
+	margin-left : 85px;
+}
+
+.refcolor {
+	color: black;
+	text-decoration: underline;
+}
+
+.title {
+	color: #003366;
+	font-family: "Segoe UI", 'Yu Gothic UI';
+}
