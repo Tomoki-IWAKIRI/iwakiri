@@ -37,3 +37,7 @@ li {
 	color: #003366;
 	font-family: "Segoe UI", 'Yu Gothic UI';
 }
+
+.submitted{
+	list-style-type: circle
+}
